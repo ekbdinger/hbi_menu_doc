@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the HBI Menu feature.
+ */
+
+include_once 'hbi_menu.features.inc';
